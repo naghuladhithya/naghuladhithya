@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Naghul Adhithya
 
-I'm a **high school senior** and **researcher** exploring the deep structure of reality through **computer science**, **machine learning**, **mathematics**, and **physics**.
+I'm a **high school senior** exploring the deep structure of reality through **computer science**, **machine learning**, **mathematics**, and **physics**.
 
 My work bridges **rigorous theory** with **real-world application**, with a focus on **large language models (LLMs)** and **computer vision**. I’m driven to build systems that **learn**, **adapt**, and **push the boundaries** of artificial and human intelligence.
 
