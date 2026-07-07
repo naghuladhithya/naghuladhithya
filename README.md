@@ -1,8 +1,6 @@
-Hey, I'm Naghul — a Computer Science & Data Science student at UIUC.
- 
-Data Science & Computer Science @ UIUC | Systems Engineer | GPU & Distributed Computing
+I'm Naghul, studying Computer Science & Data Science at UIUC.
 
-Focused on GPU computing and low-latency systems.
-Building high-performance systems across GPU-accelerated computing, low-latency execution, and scalable infrastructure.
+Focused on high-performance systems engineering across distributed infrastructure, low-latency execution, and GPU-accelerated computing, focused on optimizing latency and scalability.
  
 Portfolio: [naghuladhithya.vercel.app](https://naghuladhithya.vercel.app)
+Reach out: nav5@illinois.edu
